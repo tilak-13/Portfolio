@@ -1,0 +1,38 @@
+.contact-section {
+    background-color: #1e1e1e; /* Dark background to match the theme */
+    color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.contact-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #fff;
+    border-bottom: 2px solid #666;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.contact-section p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    color: #aaa;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.social-links a {
+    color: #89c2d9; /* Subtle blue for social icons */
+    transition: color 0.3s ease, transform 0.3s ease;
+    text-decoration: none;
+}
+
+.social-links a:hover {
+    color: #fff;
+    transform: scale(1.2);
+}
