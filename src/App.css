@@ -13,7 +13,7 @@ h1, h2, h3 {
     top: 0;
     left: 0;
     width: 0%;
-    height: 5px;
+    height: 2px;
     background: linear-gradient(45deg, #6c63ff, #ff6584);
     z-index: 9999;
     transition: width 0.1s ease-out;
