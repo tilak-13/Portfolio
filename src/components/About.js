@@ -7,10 +7,25 @@ const About = () => {
             <div className="about-content">
                 <h2>About Me</h2>
                 <p>
-                    I am Tikaharu Sharma, a software developer with a passion for Machine Learning and Artificial Intelligence.
-                    I graduated from Pulchowk Campus with a degree in Computer Engineering and have professional experience
-                    as a full-stack developer. My goal is to build innovative solutions that make a meaningful impact.
-                </p>
+  Hi, I’m Tikaharu Sharma, a curious mind currently pursuing my Master’s in Computer Science 
+  at the University of Florida. My journey started back home in Nepal, where I completed 
+  my Computer Engineering degree at Pulchowk Campus. Over the years, I’ve fallen in love 
+  with the world of Artificial Intelligence and Machine Learning—fields that excite me 
+  because of their potential to solve real-world problems in creative ways. 
+  
+  I’ve built projects ranging from AI-powered resume analyzers and recommendation systems 
+  to full-stack web apps. For me, these projects aren’t just technical experiments—they’re 
+  ways of turning ideas into something tangible and useful. 
+
+  Outside of academics and coding, you’ll often find me talking (a lot!) about sports—football, 
+  cricket, basketball, and chess are my favorites. They’ve taught me discipline, teamwork, 
+  and strategy, which I try to carry into everything I do. 
+
+  At my core, I’m someone who loves learning, sharing ideas, and building things that 
+  bring value to others. My goal is to grow as a researcher and developer, while also 
+  staying true to the passions that make me who I am.
+</p>
+
                 <div className="skills">
                     <h4>Technical Skills</h4>
                     <ul className="skills-list">

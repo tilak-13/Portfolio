@@ -13,7 +13,7 @@ const Hero = () => {
                     <TypingEffect />
                 </div>
                 <div className="hero-photo">
-                    <img src="/images/photo.jpg" alt="Tikaharu Sharma" className="profile-photo" />
+                    <img src="/images/photo2.jpg" alt="Tikaharu Sharma" className="profile-photo" />
                 </div>
             </div>
         </div>
