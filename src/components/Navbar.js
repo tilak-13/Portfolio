@@ -20,7 +20,7 @@ const Navbar = () => {
             </ul>
             <div className="navbar-right">
                 <a
-                    href="/Resume_Haru.pdf"
+                    href="/Resume2.pdf"
                     download="Tikaharu_Sharma_CV.pdf"
                     className="download-cv-btn"
                 >
